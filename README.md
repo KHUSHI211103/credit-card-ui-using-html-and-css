@@ -9,3 +9,4 @@ card holder name
 expiery date
 logo 
 
+this credit card will have all the necessary details which a real world credit card hasgi
